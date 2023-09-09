@@ -4,7 +4,7 @@ This repository contains our implementation of the article published in IEEE Tra
 
 [Paper link here]()
 
-*Score file preparation
+###Score file preparation
 
 Set to use either synthetic, artificial scores, or upload real scores file containining separate countermeasure (CM) and automatic speaker verification (ASV) txt score files.
 
@@ -40,7 +40,7 @@ LA_0008-alaw-ita_tx  LA_E_5013671-alaw-ita_tx  alaw  ita_tx  bonafide target  no
 python evaluate_tEER.py true false
 ```
 
-## Contact
+### Contact
 For any query regarding this repository, please contact:
 
 - Tomi H. Kinnunen: tomi.kinnunen[at]uef[dot]fi
