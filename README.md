@@ -5,10 +5,10 @@ This repository contains our implementation of the article published in IEEE Tra
 [Paper link here]()
 
 ## t-EER plot using simulated scores
-![image](image_path)
+![image](https://github.com/TakHemlata/T-EER/tree/master/figure/Teer_sim.png)
 
 ## t-EER plot using real scores
-![image](image_path)
+![image](https://github.com/TakHemlata/T-EER/tree/master/figure/Teer_real.png)
 
 
 ##Score file preparation
