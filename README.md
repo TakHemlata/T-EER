@@ -4,14 +4,6 @@ This repository contains our implementation of the article published in IEEE Tra
 
 [Paper link here]()
 
-## t-EER plot using simulated scores
-![Image](https://github.com/TakHemlata/T-EER/master/figure/Teer_sim.png)
-
-
-## t-EER plot using real scores
-![image](https://github.com/TakHemlata/T-EER/master/figure/Teer_real.png)
-
-
 ##Score file preparation
 
 Set to use either synthetic, artificial scores, or upload real scores file containining separate countermeasure (CM) and automatic speaker verification (ASV) txt score files.
