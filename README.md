@@ -7,8 +7,6 @@ This repository contains our implementation of the article published in IEEE Tra
 ### t-EER paths + values
 ![Teer values using simulated scores](https://github.com/TakHemlata/T-EER/assets/44014715/eceea945-3126-442a-a5fa-5b86dcc4af34)
 
-![Teer values using real scores](https://github.com/TakHemlata/T-EER/assets/44014715/bbfd5a15-8f88-48ca-af05-9467284ea624)
-
 ### Python notebook
 Link to run the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing)
 
