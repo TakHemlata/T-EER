@@ -49,8 +49,8 @@ python evaluate_tEER.py true false
 ### Contact
 For any query regarding this repository, please contact:
 
-- Tomi H. Kinnunen: tomi.kinnunen[at]uef[dot]fi
 - Hemlata Tak: tak[at]eurecom[dot]fr
+- Tomi H. Kinnunen: tomi.kinnunen[at]uef[dot]fi
 
 ## Citation
 If you use this metric in your work then use the following citation:
