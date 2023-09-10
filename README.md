@@ -5,7 +5,7 @@ This repository contains our implementation of the article published in IEEE Tra
 [Paper link here]()
 
 ### t-EER paths + values
-![Teer values using simulated scores](https://github.com/TakHemlata/T-EER/assets/44014715/eceea945-3126-442a-a5fa-5b86dcc4af34)
+![Teer values using simulated scores](https://github.com/TakHemlata/T-EER/assets/44014715/fbf42a3a-d492-4ac3-a4e7-63ca4065f3e5)
 
 ### Python notebook
 Link to run the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing)
