@@ -11,9 +11,6 @@ import simulated_function as sim
 
 args = sys.argv
 
-#SASV = True # pass the boolan argument  
-#ASVspoof = False # pass the boolan argument 
-
 SASV = args[1].lower() == 'true'
 ASVspoof = args[2].lower() == 'true'
 
