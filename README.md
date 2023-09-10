@@ -48,7 +48,7 @@ For any query regarding this repository, please contact:
 - Hemlata Tak: tak[at]eurecom[dot]fr
 
 ## Citation
-If you use this metric in your work please use the following citations:
+If you use this metric in your work then use the following citation:
 
 ```bibtex
 
