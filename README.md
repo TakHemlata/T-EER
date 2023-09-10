@@ -5,7 +5,7 @@ This repository contains our implementation of the article published in IEEE Tra
 [Paper link here]()
 
 ### Python notebook
-Link to run the notebook: [![Open In Colab](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing)
+Link to run the notebook: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ga7eiKFP11wOFMuZjThLJlkBcwEG6_4m?usp=sharing)
 
 ### Score file preparation
 Set to use either synthetic, artificial scores, or upload real scores file containining separate countermeasure (CM) and automatic speaker verification (ASV) txt score files.
