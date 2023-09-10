@@ -6,7 +6,7 @@ This repository contains our implementation of the article published in IEEE Tra
 
 <section id="tEER">
   <h2>tEER paths + values</h2>
-    <img src="https://github.com/TakHemlata/TakHemlata.github.io/tree/master/assets/img/Teer_simulated_Scores.jpg" alt="Photo">
+    <img src="https://github.com/TakHemlata/TakHemlata.github.io/tree/master/assets/img/Teer_simulated_Scores.jpg">
 </section>
 
 ### Python notebook
