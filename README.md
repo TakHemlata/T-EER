@@ -37,13 +37,9 @@ LA_0008-alaw-ita_tx  LA_E_5013671-alaw-ita_tx  alaw  ita_tx  bonafide target  no
 ```
 
 ### To run the script:
-
 ```
 python evaluate_tEER.py true false
 ```
-### t-EER paths and value
-![Image](github.com/TakHemlata/T-EER/tree/master/figure/Teer_sim.png)
-
 
 ### Contact
 For any query regarding this repository, please contact:
