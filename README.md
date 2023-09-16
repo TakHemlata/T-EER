@@ -2,7 +2,7 @@ t-EER: Parameter-Free Tandem Evaluation Metric of Countermeasures and Biometric 
 ===============
 This repository contains our implementation of the article published in IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE-T-PAMI), "t-EER: Parameter-Free Tandem Evaluation Metric of Countermeasures and Biometric Comparators". In this work we introduce a new metric for the joint evaluation of PAD solutions operating in situ with biometric verification.
 
-[Paper link here]()
+[Paper link here](https://ieeexplore.ieee.org/abstract/document/10246406)
 
 ### t-EER paths + values
 t-EER paths and t-EER values for different values of ρ on simulated scores drawn from three bivariate Gaussians. The overlaid blue curves on the lefthand side display the t-EER paths (one for each ρ), while the corresponding curves on the right-hand side display the corresponding t-EER value along each path. Three familiar special-case EERs are also indicated, along with proposed concurrent t-EER (magenta marker).
@@ -56,5 +56,11 @@ For any query regarding this repository, please contact:
 If you use this metric in your work then use the following citation:
 
 ```bibtex
-
+@article{kinnunen2023t,
+  title={t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators},
+  author={Kinnunen, Tomi H and Lee, Kong Aik and Tak, Hemlata and Evans, Nicholas and Nautsch, Andreas},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2023},
+  publisher={IEEE}
+}
 ```
