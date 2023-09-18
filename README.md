@@ -42,7 +42,7 @@ LA_0008-alaw-ita_tx  LA_E_5013671-alaw-ita_tx  alaw  ita_tx  bonafide target  no
 ```
 
 ### To run the script:
-The Boolean argument depends on the baseline you wish to use, either "SASV" or "ASVspoof 2021.
+The Boolean argument depends on the baseline you wish to use, either "SASV" or "ASVspoof 2021".
 ```
 python evaluate_tEER.py true false
 ```
