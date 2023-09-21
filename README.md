@@ -6,7 +6,7 @@ This repository contains our implementation of the article published in IEEE Tra
 
 ### t-EER paths + values
 t-EER paths and t-EER values for different values of ρ on simulated scores drawn from three bivariate Gaussians. The overlaid blue curves on the lefthand side display the t-EER paths (one for each ρ), while the corresponding curves on the right-hand side display the corresponding t-EER value along each path. Three familiar special-case EERs are also indicated, along with proposed concurrent t-EER (magenta marker).
-![Teer values using simulated scores](https://github.com/TakHemlata/T-EER/assets/44014715/d01ea1ca-0aa4-4e15-a34d-c38ef054aafb)
+(![Teer values using simulated scores](https://github.com/TakHemlata/T-EER/assets/44014715/a0da7cfd-d1b5-4b41-b658-6d5cb11cd017))
 
 
 ### Python notebook
