@@ -60,11 +60,13 @@ For any query regarding this repository, please contact:
 If you use this metric in your work then use the following citation:
 
 ```bibtex
-@article{kinnunen2023t,
-  title={t-EER: Parameter-Free Tandem Evaluation of Countermeasures and Biometric Comparators},
-  author={Kinnunen, Tomi H and Lee, Kong Aik and Tak, Hemlata and Evans, Nicholas and Nautsch, Andreas},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2023},
-  publisher={IEEE}
+@ARTICLE {Kinnunen2023-tEER,
+author = {T. H. Kinnunen and K. Lee and H. Tak and N. Evans and A. Nautsch},
+journal = {{IEEE} Transactions on Pattern Analysis and Machine Intelligence},
+title = {t-EER: Parameter-Free Tandem Evaluation of Countermeasures and
+Biometric Comparators (to appear)},
+doi = {10.1109/TPAMI.2023.3313648},
+year = {2023},
+publisher = {IEEE Computer Society},
 }
 ```
